@@ -5,4 +5,6 @@ Features:
 - TypeScript by default
 - Jest
 - base for a Docker image
+- ESLint
+- GitHub Actions set up
 - and not much more than that
