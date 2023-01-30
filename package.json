@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "Basic ExpressJS app template",
   "scripts": {
-    "test": "jest --verbose --watchAll",
+    "test": "jest",
     "build": "npx tsc",
     "start": "node dist/server.js",
     "dev": "concurrently \"npx tsc --watch\" \"nodemon -q dist/server.js\""
